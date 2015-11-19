@@ -7,7 +7,7 @@ from pprint import pprint
 from django.conf import settings
 
 def _load_json_file():
-    with open(settings.OZP['DEMO_AUTH_SERVICE']['JSON_FILE']) as json_data:
+    with open(settings.DEMO_AUTH_SERVICE['JSON_FILE']) as json_data:
         auth_data = json.load(json_data)
         return auth_data
 

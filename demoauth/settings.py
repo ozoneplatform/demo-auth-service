@@ -147,6 +147,6 @@ REST_FRAMEWORK = {
 CORS_ORIGIN_ALLOW_ALL = True
 CORS_ALLOW_CREDENTIALS = True
 
-'DEMO_AUTH_SERVICE': {
+DEMO_AUTH_SERVICE = {
     'JSON_FILE': os.path.join(BASE_DIR, 'main/auth_data.json')
 }

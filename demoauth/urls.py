@@ -19,7 +19,7 @@ from django.conf.urls.static import static
 
 urlpatterns = [
     url(r'^demo-auth/', include('main.urls')),
-    url(r'^docs/', include('rest_framework_swagger.urls')
+    url(r'^docs/', include('rest_framework_swagger.urls'))
 ]
 
 # in debug, serve the media and static resources with the django web server
