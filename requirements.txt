@@ -5,3 +5,4 @@ django-rest-swagger==0.3.4
 djangorestframework==3.3.1
 PyYAML==3.11
 six==1.10.0
+gunicorn==19.3.0
