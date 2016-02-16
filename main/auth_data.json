@@ -19,7 +19,7 @@
             "groups": ["cn=OZP_ORG_STEWARD,ou=ABC,ou=DEF,o=X.Y.Z"]
         },
         {
-            "dn": "Obrien obrien",
+            "dn": "OBrien obrien",
             "dutyorg": "Minipax",
             "clearances": ["UNCLASSIFIED", "CONFIDENTIAL", "SECRET", "TOP SECRET"],
             "formalAccesses": ["SIERRA", "TANGO", "GOLF", "HOTEL"],
