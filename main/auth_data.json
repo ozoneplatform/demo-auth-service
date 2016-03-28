@@ -3,7 +3,7 @@
     "name": "dummy auth server",
     "users": [
         {
-            "dn": "Winston Smtih wsmith",
+            "dn": "Winston Smith wsmith",
             "dutyorg": "Minitrue",
             "clearances": ["UNCLASSIFIED", "CONFIDENTIAL", "SECRET", "TOP SECRET"],
             "formalAccesses": ["SIERRA", "TANGO"],
