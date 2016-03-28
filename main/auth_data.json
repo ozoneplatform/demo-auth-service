@@ -3,7 +3,15 @@
     "name": "dummy auth server",
     "users": [
         {
-            "dn": "emailAddress=none@none.com,CN=Winston Smith wsmith,O=Minitrue,L=Default City,ST=Oceania,C=AO",
+            "dn": "Winston Smtih wsmith",
+            "dutyorg": "Minitrue",
+            "clearances": ["UNCLASSIFIED", "CONFIDENTIAL", "SECRET", "TOP SECRET"],
+            "formalAccesses": ["SIERRA", "TANGO"],
+            "visas": ["NOVEMBER"],
+            "groups": ["cn=OZP_ORG_STEWARD,ou=ABC,ou=DEF,o=X.Y.Z"]
+        },
+        {
+        	 "dn": "emailAddress=none@none.com,CN=Winston Smith wsmith,O=Minitrue,L=Default City,ST=Oceania,C=AO",
             "dutyorg": "Minitrue",
             "clearances": ["UNCLASSIFIED", "CONFIDENTIAL", "SECRET", "TOP SECRET"],
             "formalAccesses": ["SIERRA", "TANGO"],
