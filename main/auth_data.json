@@ -55,7 +55,7 @@
             "dutyorg": "Miniluv",
             "clearances": ["UNCLASSIFIED", "CONFIDENTIAL", "SECRET"],
             "formalAccesses": [],
-            "visas": ["NOVEMBER"],
+            "visas": ["NOVEMBER", "PKI"],
             "groups": []
         },
         {
@@ -71,7 +71,7 @@
             "dutyorg": "Minitrue",
             "clearances": ["UNCLASSIFIED", "CONFIDENTIAL", "SECRET"],
             "formalAccesses": [],
-            "visas": ["NOVEMBER"],
+            "visas": ["NOVEMBER", "PKI"],
             "groups": []
         },
         {
@@ -87,7 +87,7 @@
             "dutyorg": "Miniplen",
             "clearances": ["UNCLASSIFIED", "CONFIDENTIAL", "SECRET"],
             "formalAccesses": [],
-            "visas": [],
+            "visas": ["PKI"],
             "groups": []
         },
         {
@@ -104,7 +104,7 @@
             "clearances": ["UNCLASSIFIED", "CONFIDENTIAL", "SECRET", "TOP SECRET"],
             "formalAccesses": [],
             "visas": ["NOVEMBER"],
-            "groups": []
+            "groups": ["PKI"]
         },
         {
             "dn": "Tparsons tparsons",
@@ -119,7 +119,7 @@
             "dutyorg": "Minipax",
             "clearances": ["UNCLASSIFIED"],
             "formalAccesses": [],
-            "visas": [],
+            "visas": ["PKI"],
             "groups": []
         },
         {
@@ -135,7 +135,7 @@
             "dutyorg": "Minipax",
             "clearances": ["UNCLASSIFIED", "CONFIDENTIAL", "SECRET", "TOP SECRET"],
             "formalAccesses": ["SIERRA", "TANGO", "GOLF", "HOTEL"],
-            "visas": ["NOVEMBER"],
+            "visas": ["NOVEMBER", "PKI"],
             "groups": []
         }
     ]
