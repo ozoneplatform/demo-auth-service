@@ -72,7 +72,7 @@
             "clearances": ["UNCLASSIFIED", "CONFIDENTIAL", "SECRET"],
             "formalAccesses": [],
             "visas": ["NOVEMBER", "PKI"],
-            "groups": ["cn=OZP_BETA_USER,ou=ABC,ou=DEF,o=X.Y.Z"]
+            "groups": []
         },
         {
             "dn": "Jones jones",
@@ -160,7 +160,7 @@
             "clearances": ["UNCLASSIFIED", "CONFIDENTIAL", "SECRET", "TOP SECRET"],
             "formalAccesses": ["SIERRA", "TANGO", "GOLF", "HOTEL"],
             "visas": ["NOVEMBER"],
-            "groups": []
+            "groups": ["cn=OZP_BETA_USER,ou=ABC,ou=DEF,o=X.Y.Z"]
         }
     ]
 }
