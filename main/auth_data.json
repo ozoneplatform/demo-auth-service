@@ -8,7 +8,7 @@
             "clearances": ["UNCLASSIFIED", "CONFIDENTIAL", "SECRET", "TOP SECRET"],
             "formalAccesses": ["SIERRA", "TANGO", "GOLF", "HOTEL"],
             "visas": ["NOVEMBER"],
-            "groups": ["cn=OZP_APPS_MALL_STEWARD,ou=ABC,ou=DEF,o=X.Y.Z", "cn=OZP_BETA_USER,ou=ABC,ou=DEF,o=X.Y.Z"]
+            "groups": ["cn=OZP_APPS_MALL_STEWARD,ou=ABC,ou=DEF,o=X.Y.Z"]
         },
         {
             "dn": "Big Brother 2 bigbrother2",
@@ -25,6 +25,14 @@
             "formalAccesses": ["SIERRA", "TANGO", "GOLF", "HOTEL"],
             "visas": ["NOVEMBER"],
             "groups": ["cn=OZP_APPS_MALL_STEWARD,ou=ABC,ou=DEF,o=X.Y.Z"]
+        },
+        {
+            "dn": "Bettafish bettafish",
+            "dutyorg": "Miniluv",
+            "clearances": ["UNCLASSIFIED", "CONFIDENTIAL", "SECRET", "TOP SECRET"],
+            "formalAccesses": ["SIERRA", "TANGO", "GOLF", "HOTEL"],
+            "visas": ["NOVEMBER"],
+            "groups": ["cn=OZP_APPS_MALL_STEWARD,ou=ABC,ou=DEF,o=X.Y.Z", "cn=OZP_BETA_USER,ou=ABC,ou=DEF,o=X.Y.Z"]
         },
         {
             "dn": "Winston Smith wsmith",
@@ -144,6 +152,14 @@
             "clearances": ["UNCLASSIFIED", "CONFIDENTIAL", "SECRET", "TOP SECRET"],
             "formalAccesses": ["SIERRA", "TANGO", "GOLF", "HOTEL"],
             "visas": ["NOVEMBER", "PKI"],
+            "groups": []
+        },
+        {
+            "dn": "BetaRayBill betaraybill",
+            "dutyorg": "Miniluv",
+            "clearances": ["UNCLASSIFIED", "CONFIDENTIAL", "SECRET", "TOP SECRET"],
+            "formalAccesses": ["SIERRA", "TANGO", "GOLF", "HOTEL"],
+            "visas": ["NOVEMBER"],
             "groups": []
         }
     ]
